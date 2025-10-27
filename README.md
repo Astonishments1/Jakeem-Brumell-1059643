@@ -3,6 +3,7 @@ Greetings, My name is Jakeem Brumell (JB) and this is my first repo :)
 
 
 Purpose of the Repository
+
 This repository serves as a collaborative space where participants can work together to learn, share knowledge, and complete the assigned tasks.
 
 Steps Followed to Complete the Tutorial
@@ -16,7 +17,8 @@ Steps Followed to Complete the Tutorial
 8. Made adjustments based on received feedback.
 
 Collaborators : 
+
 Jakeem Brumell 
 Andrew Blair
 
-Andrew Blair 
+
