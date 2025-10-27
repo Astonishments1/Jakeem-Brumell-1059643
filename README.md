@@ -1,12 +1,10 @@
 # Jakeem-Brumell-1059643
-Greetings, My name is Jakeem Brumell (JB) and this is my first repo :)
+Greetings, my name is Jakeem Brumell (JB) and this is my first repo :)
 
 
-Purpose of the Repository
+The purpose of this repository is to establish a collaborative space where participants can work together to learn, share knowledge and complete assigned tasks.
 
-This repository serves as a collaborative space where participants can work together to learn, share knowledge, and complete the assigned tasks.
-
-Steps Followed to Complete the Tutorial
+Steps Followed;
 1. Installed Git on my laptop.
 2. Created a GitHub account.
 3. Set up a new public repository for the project files.
@@ -19,6 +17,7 @@ Steps Followed to Complete the Tutorial
 Collaborators : 
 
 Jakeem Brumell 
+
 Andrew Blair
 
 
